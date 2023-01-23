@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://twitter.com/@aptikeryetkin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@aptikeryetkin" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abdullah eryetkin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah eryetkin" height="30" width="40" /></a>
-<a href="https://fb.com/abdullah eryetkin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdullah eryetkin" height="30" width="40" /></a>
+<a href="https://fb.com/abdullah.eryetkin.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdullah eryetkin" height="30" width="40" /></a>
 <a href="https://instagram.com/@eryetkin.33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@eryetkin.33" height="30" width="40" /></a>
 <a href="https://discord.gg/¤Aptik#4607" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="¤Aptik#4607" height="30" width="40" /></a>
 </p>
