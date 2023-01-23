@@ -1,5 +1,5 @@
-<h1 align="center">Merhaba 👋, Ben Abdullah Eryetkin</h1>
-<h3 align="center">21 yaşındayım ve Türkiye'de Mersin ilinde yaşıyorum. Mehmet Akif Ersoy Üniversitesi'nde Bilgisayar Programcılığı eğitimini alıyorum. Liseden beri bilgisayar ve teknolojiye ilgi duyuyorum ve kendimi sürekli olarak geliştirmek için çalışıyorum. Profesyonel olarak programlama dilleri öğreniyorum ve uygulamalar geliştiriyorum. Ayrıca, teknolojinin gelecekteki yönleri ve trendleri hakkında araştırmalar yapıyorum. Eğlenceli bir kişi olarak, sosyal aktivitelerde yer alırım ve arkadaşlarımla vakit geçiririm. Ayrıca, müzik dinlemeyi ve sinema izlemeyi severim.</h3>
+<h1 align="center">Hi 👋, I'am Abdullah Eryetkin</h1>
+<h3 align="center">I am 21 years old and I live in Mersin, Turkey. I am currently studying Computer Engineering at Mehmet Akif Ersoy University. I have been interested in computers and technology since high school and I constantly work to improve myself. I am professionally learning programming languages and developing applications. Additionally, I research about the future directions and trends of technology. As a fun person, I participate in social activities and spend time with my friends. Furthermore, I love listening to music and watching movies.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aptik33&label=Profile%20views&color=0e75b6&style=flat" alt="aptik33" /> </p>
